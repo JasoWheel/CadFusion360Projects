@@ -1,2 +1,5 @@
 # CadFusion360Projects
-Fusion 360 and stl files and pictures of 3D printed projects
+This folder contains:
+Fusion 360 created stl files.
+Animated Gifs of multi-part cad designs.
+Pictures of 3D printed projects.
